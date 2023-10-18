@@ -458,7 +458,7 @@
         private System.Windows.Forms.TextBox textBox1;//ghrgberghbegbehfgbefgbhew5hgfowugthtgejrbwevebouhgfvruhfwfuoh
         private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.Label label1;//Ты знввешь, что такое безумие?
-        private System.Windows.Forms.Label label2;//Безуми еэто повторение одного и того же раз за разом в надежде на изменение
+        private System.Windows.Forms.Label label2;//Безумие это повторение одного и того же раз за разом в надежде на изменение
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.Button button1;
@@ -490,7 +490,6 @@
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;//hwu9enhgu9vehgopirnhqpv9guhv9urqqhc9mhg9upqchmqngcpnmeqgihny  fgncpgumhxagiyb
         //водаааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааааа
-        //h2oh2oh2oh2oh2oh2hohohohohohoohhohohoho
     }
 }
 
