@@ -1,0 +1,20 @@
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csprojAssemblyReference.cache
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Form1.resources
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Properties.Resources.resources
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.GenerateResource.cache
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\никита\Desktop\Макс Учеба\Учёба\1курс\2 семестр\АлгПр\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe.config
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\bin\Debug\Zadacha1.exe
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\bin\Debug\Zadacha1.pdb
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csprojAssemblyReference.cache
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Form1.resources
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.Properties.Resources.resources
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.GenerateResource.cache
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.csproj.CoreCompileInputs.cache
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.exe
+C:\Users\никита\Desktop\Макс\Учёба\1курс\2 семестр\АлгПр\Lab1\Zadacha1\Zadacha1\obj\Debug\Zadacha1.pdb
